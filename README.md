@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/paxtonproctor">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=paxtonproctor&&show_icons=true&line_height=40&title_color=3982FA&icon_color=CF040D&text_color=0DCE42&bg_color=FFFFFF"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=paxtonproctor&&show_icons=true&line_height=40&title_color=3982FA&icon_color=CF040D&text_color=FFFFFF&bg_color=000000"/>
 </a>
 
 <div align="center">
