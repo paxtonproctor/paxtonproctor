@@ -15,7 +15,7 @@
 
 
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonproctor&theme=dark&count_private=true&langs_count=17" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonproctor&layout=compact&theme=dark&count_private=true&langs_count=17" />
 </a>
 
 <a href="https://github.com/paxtonproctor">
