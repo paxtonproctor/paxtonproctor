@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 style="font-size:40px;"><strong> Welcome to Paxton proctor's github </strong></h1>
+<h1 style="font-size:40px&;"><strong> Welcome to Paxton proctor's github </strong></h1>
 <div align="center">
 
 **Languages and Tools:**  
@@ -15,7 +15,7 @@
 
 
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonproctor&layout=compact&theme=dark&count_private=true&langs_count=17" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonproctor&title_color=CF040D&layout=compact&theme=dark&count_private=true&langs_count=17" />
 </a>
 
 <a href="https://github.com/paxtonproctor">
