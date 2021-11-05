@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="font-size:40px&;"><strong> Welcome to Paxton proctor's github </strong></h1>
+<h1 style="font-size:40px&;"><strong> Welcome to Paxton Proctor's github </strong></h1>
 <div align="center">
 
 **Languages and Tools:**  
