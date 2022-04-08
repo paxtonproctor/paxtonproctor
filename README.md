@@ -12,7 +12,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>    
 
-
+<p align="center">
+    <a href="https://github.com/paxtonproctor/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Paxton Proctor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paxtonproctor&theme=black-red&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonproctor&title_color=CF040D&layout=compact&theme=dark&text_color=FFFFFF&count_private=true&langs_count=17" />
 </a>
